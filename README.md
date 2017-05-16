@@ -13,6 +13,8 @@ A web version of the game is under development.
 
 The AI of the game can also be found on [Botzone.org](www.botzone.org). My ID on Botzone is MarkYu98.
 
+Different levels of AI algorithms include random, greedy, Min-Max search.
+
 There are also quite a lot of outstanding AIs of Ataxx made by my classmates on [Botzone.org](www.botzone.org).
 
 ## 游戏规则 ([Botzone Wiki](http://wiki.botzone.org/index.php?title=Ataxx))
