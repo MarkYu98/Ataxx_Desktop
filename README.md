@@ -5,6 +5,8 @@ Have fun!
 ## About the Project
 This is a assignment project for my Introduction to Computing class at Peking University. This version provides 4 levels of AI to play with (Of course man-to-man game is also available).
 
+Available for Windows/macOS (compiled and tested), should be able to transplant to iOS, Android, etc.
+
 Provides Save/Load function and some quite interesting GUI custom settings.
 
 A web version of the game is under development.
