@@ -3,7 +3,7 @@ This is a desktop version of Ataxx(同化棋) game GUI and AI developed by Qt cr
 Have fun!
 
 ## About the Project
-This is a assignment project for my Introduction to Computing class at Peking University. (Although the original requirement for this assignment does not include a GUI and multiple level of AIs) This version provides 4 levels of AI to play with (Of course man-to-man game is also available).
+This is a assignment project for my Introduction to Computing class at Peking University. (The original requirement does not include GUI and multiple levels of AIs, I further developed these features) This version provides 4 levels of AI to play with (Of course man-to-man game is also available).
 
 Available for Windows/macOS (compiled and tested), should be able to transplant to iOS, Android, etc.
 
